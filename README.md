@@ -27,22 +27,22 @@
 
 ### Languages and Frameworks
 &ensp;<code>
-<img src="icons/html.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/html.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
-<img src="icons/css.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/css.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
-<img src="icons/js.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/js.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
-<img src="icons/ts.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/ts.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
-<img src="icons/react.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/react.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
-<img src="icons/python.png" width="48px" style="border-radius:5px;"/>
+<img src="icons/python.png" width="48px" style="border-radius:5px !important;"/>
 </code>
 
 <br />
