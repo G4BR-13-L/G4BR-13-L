@@ -1,16 +1,52 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4BR-13-L)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**G4BR-13-L/G4BR-13-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋, I'm Gabriel</h2>
+<h3 align="center">software engineering student( & musician 🎵)</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=G4BR-13-L&color=1DB954" alt="Gabriel" width="130px"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/gabriel-victorc/" target="blank"><img align="left" src="icons/linkedin.png" alt="gabriel" width="32px" /></a>
+  
+<a href="https://t.me/G4br1ellp">
+  <img align="left" alt="Meu telegram" width="32px" src="icons/telegram.png" />
+</a>
+
+<a href="https://open.spotify.com/user/rkl17y9mx2ydrg1a4fdssxhxg" target="blank"><img align="left" src="icons/spotify.png" alt="gabriel" width="32px" /></a>
+
+
+<br/>
+
+
+### Eu...
+* 🎓 Estudo Engenharia de Software na **PUC Minas** 
+* 🔭 Estou atualmente explorando o **Python**
+* 💻 Sou o principal desenvolvedor da versão desktop do projeto **[< /listfy>](https://github.com/listfy-team/listfy-electron)**
+* 🎙 Participo do podcast **[Raio](https://open.spotify.com/show/5tzwuHAOYGp4ATskC6oT5c?si=NnujR6j9RiyGtVmNP1HKxw)**
+
+### Notas Recentes 📝
+
+* **Sinceramente, não domino 100% de tudo. É tanta tecnologia para estudar que demora um tempo consideravel até saber o suficiente para competir por uma vaga. [Aqui](https://github.com/listfy-team/listfy-electron)🌟 está o que sou capaz de fazer.**
+
+### Languages and Frameworks
+&ensp;<code>
+<img src="icons/html.png" width="48px" style="border-radius:5px;"/>
+</code>&ensp;
+&ensp;<code>
+<img src="icons/css.png" width="48px" style="border-radius:5px;"/>
+</code>&ensp;
+&ensp;<code>
+<img src="icons/js.png" width="48px" style="border-radius:5px;"/>
+</code>&ensp;
+&ensp;<code>
+<img src="icons/ts.png" width="48px" style="border-radius:5px;"/>
+</code>&ensp;
+&ensp;<code>
+<img src="icons/react.png" width="48px" style="border-radius:5px;"/>
+</code>&ensp;
+&ensp;<code>
+<img src="icons/python.png" width="48px" style="border-radius:5px;"/>
+</code>
+
+<br />
+<br />
+
+![](https://raw.githubusercontent.com/G4BR-13-L/my-github-status/6bdead15cc2114c82886b57824dc2938986df729/generated/overview.svg)
+![](https://raw.githubusercontent.com/G4BR-13-L/my-github-status/6bdead15cc2114c82886b57824dc2938986df729/generated/languages.svg)
