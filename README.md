@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=G4BR-13-L&color=1DB954" alt="Gabriel" width="130px"/></p>
 
-<a href="https://www.linkedin.com/in/gabriel-victorc/" target="blank"><img align="left" src="icons/linkedin.png" alt="gabriel" width="32px" /></a>
+<a href="https://www.linkedin.com/in/gabriel-victorc/" target="_blank"><img align="left" src="icons/linkedin.png" alt="gabriel" width="32px" /></a>
   
-<a href="https://t.me/G4br1ellp">
+<a href="https://t.me/G4br1ellp" target="_blank">
   <img align="left" alt="Meu telegram" width="32px" src="icons/telegram.png" />
 </a>
 
-<a href="https://open.spotify.com/user/rkl17y9mx2ydrg1a4fdssxhxg" target="blank"><img align="left" src="icons/spotify.png" alt="gabriel" width="32px" /></a>
+<a href="https://open.spotify.com/user/rkl17y9mx2ydrg1a4fdssxhxg" target="_blank"><img align="left" src="icons/spotify.png" alt="gabriel" width="32px" /></a>
 
 
 <br/>
