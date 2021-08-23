@@ -48,5 +48,6 @@
 <br />
 <br />
 
-![](https://raw.githubusercontent.com/G4BR-13-L/my-github-status/6bdead15cc2114c82886b57824dc2938986df729/generated/overview.svg)
-![](https://raw.githubusercontent.com/G4BR-13-L/my-github-status/6bdead15cc2114c82886b57824dc2938986df729/generated/languages.svg)
+![](https://github.com/G4BR-13-L/github-stats/blob/master/generated/languages.svg)
+
+
