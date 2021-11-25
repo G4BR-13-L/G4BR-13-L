@@ -17,13 +17,13 @@
 
 ### Eu...
 * 🎓 Estudo Engenharia de Software na **PUC Minas** 
-* 🔭 Estou atualmente explorando o **Python**
-* 💻 Sou o principal desenvolvedor da versão desktop do projeto **[< /listfy>](https://github.com/listfy-team/listfy-electron)**
+* 🔭 Estou atualmente explorando o **Firebase**🔥
+* 💻 Sou o principal desenvolvedo projetos em React, React Native na IPROjr
 * 🎙 Participo do podcast **[Raio](https://open.spotify.com/show/5tzwuHAOYGp4ATskC6oT5c?si=NnujR6j9RiyGtVmNP1HKxw)**
 
 ### Notas Recentes 📝
 
-* **Sinceramente, não domino 100% de tudo. É tanta tecnologia para estudar que demora um tempo consideravel até saber o suficiente para competir por uma vaga. [Aqui](https://github.com/listfy-team/listfy-electron)🌟 está o que sou capaz de fazer.**
+* **Pensa num [livro](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6quaXAlgnMGOzkhgIKEYTgHaHa%26pid%3DApi&f=1) insano de bom!**
 
 ### Languages and Frameworks
 &ensp;<code>
@@ -45,9 +45,5 @@
 <img src="icons/python.png" width="48px" style="border-radius:5px !important;"/>
 </code>
 
-<br />
-<br />
-
-![](https://github.com/G4BR-13-L/github-stats/blob/master/generated/languages.svg)
 
 
