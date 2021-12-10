@@ -18,7 +18,7 @@
 ### Eu...
 * 🎓 Estudo Engenharia de Software na **PUC Minas** 
 * 🔭 Estou atualmente explorando o **Firebase**🔥
-* 💻 Sou o principal desenvolvedo projetos em React, React Native na IPROjr
+* 💻 Estou desenvolvedo projetos em React, React Native na IPROjr como o **[Time-Brother](https://github.com/IPROjr-SI/IPRO-no-time-brother)**
 * 🎙 Participo do podcast **[Raio](https://open.spotify.com/show/5tzwuHAOYGp4ATskC6oT5c?si=NnujR6j9RiyGtVmNP1HKxw)**
 
 ### Notas Recentes 📝
