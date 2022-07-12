@@ -11,6 +11,8 @@
 
 <a href="https://open.spotify.com/user/rkl17y9mx2ydrg1a4fdssxhxg" target="_blank"><img align="left" src="icons/spotify.png" alt="gabriel" width="32px" /></a>
 
+<a href="gabriel.victorc13@gmail.com" target="_blank"><img align="left" src="icons/gmail.png" alt="gabriel" width="32px" /></a>
+
 <!--<a href="Gabriel Victor#1900" target="_blank"><img align="left" src="icons/discord.png" alt="gabriel" width="32px" /></a>-->
 
 
@@ -18,7 +20,7 @@
 
 
 ### Eu...
-* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 3º Período ]
+* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 4º Período ]
 * 🔭 Estou atualmente explorando **Java**🔥
 * 💻 Estou desenvolvedo projetos em NextJs <!--**[Time-Brother](https://github.com/IPROjr-SI/IPRO-no-time-brother)**-->
 
@@ -64,4 +66,4 @@
 </code>-->
 
 
-
+<img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif"/>
