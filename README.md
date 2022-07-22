@@ -11,7 +11,7 @@
 
 <a href="https://open.spotify.com/user/rkl17y9mx2ydrg1a4fdssxhxg" target="_blank"><img align="left" src="icons/spotify.png" alt="gabriel" width="32px" /></a>
 
-<a href="gabriel.victorc13@gmail.com" target="_blank"><img align="left" src="icons/gmail.png" alt="gabriel" width="32px" /></a>
+<a href="mailto:gabriel.victorc13@gmail.com?" subject="Fala Gabriel!" target="_blank"><img align="left" src="icons/gmail.png" alt="gabriel" width="32px" /></a>
 
 <!--<a href="Gabriel Victor#1900" target="_blank"><img align="left" src="icons/discord.png" alt="gabriel" width="32px" /></a>-->
 
