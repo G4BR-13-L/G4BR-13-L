@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1666500647 "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Curriculo.tex" "Curriculo.pdf" "Curriculo" 1666500647
-  "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Curriculo.tex" 1666500646 9311 5eebe20073a9dae7e82c6fdb3124e6d7 ""
+["pdflatex"] 1666559834 "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Curriculo.tex" "Curriculo.pdf" "Curriculo" 1666559834
+  "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Curriculo.tex" 1666559833 8275 75b1da34ecdffa1b39bcc32f8606915e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm" 1650183167 6952 02ad5d201b346d62c53c35f081142949 ""
   "/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1650183167 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -17,11 +17,9 @@
   "/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1650183167 5412 d5a2436094cd7be85769db90f29250a6 ""
   "/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty" 1650183167 13807 952b0226d4efca026f0e19dd266dcc22 ""
   "/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1650183167 17859 4409f8f50cd365c68e684407e5350b1b ""
-  "/usr/share/texmf-dist/tex/generic/minifp/minifp.sty" 1650181202 24613 40d63628704354a22c2d32caf7a01577 ""
   "/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty" 1650183167 19007 15924f7228aca6c6d184b115f4baa231 ""
   "/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty" 1650183167 20089 80423eac55aa175305d35b49e04fe23b ""
   "/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty" 1650183167 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
-  "/usr/share/texmf-dist/tex/latex/abstract/abstract.sty" 1650181202 5128 640a4c0ff76b3e578a4c5482af27ec14 ""
   "/usr/share/texmf-dist/tex/latex/atveryend/atveryend.sty" 1650183167 19336 ce7ae9438967282886b3b036cfad1e4d ""
   "/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty" 1650183167 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
   "/usr/share/texmf-dist/tex/latex/base/article.cls" 1650183167 20144 8a7de377ae7a11ee924a7499611f5a9d ""
@@ -52,8 +50,6 @@
   "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1650183167 6107 e4124ef96db512db87780f95c2a6b136 ""
   "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1650183167 6758 7d9d899cbbfc962fbc4bb93f4c69eec2 ""
   "/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1650183167 5766 13a9e8766c47f30327caf893ece86ac8 ""
-  "/usr/share/texmf-dist/tex/latex/lettrine/lettrine.cfg" 1650181202 1197 9478c902d0a31e4107eb3aaf14c3ac9e ""
-  "/usr/share/texmf-dist/tex/latex/lettrine/lettrine.sty" 1650181202 9987 5dd5cbc88f7e31aa18bab95dec9881c2 ""
   "/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf" 1650181202 24831 326d9f019009ed0c076106fa6cb860fb ""
   "/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty" 1650181202 53487 3e997243f47cb3ba8b4c7b8df9c82989 ""
   "/usr/share/texmf-dist/tex/latex/needspace/needspace.sty" 1650181202 852 0e34dbb72efc69fa07602405ad95585e ""
@@ -69,8 +65,8 @@
   "/usr/share/texmf-dist/tex/latex/zref/zref-base.sty" 1650181202 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666144067 2927661 06c2d8d8f11e1bd0aed068790f017b26 ""
-  "Curriculo.aux" 1666500647 32 3985256e7290058c681f74d7a3565a19 ""
-  "Curriculo.tex" 1666500646 9311 5eebe20073a9dae7e82c6fdb3124e6d7 ""
+  "Curriculo.aux" 1666559834 32 3985256e7290058c681f74d7a3565a19 ""
+  "Curriculo.tex" 1666559833 8275 75b1da34ecdffa1b39bcc32f8606915e ""
   (generated)
   "Curriculo.log"
   "Curriculo.pdf"

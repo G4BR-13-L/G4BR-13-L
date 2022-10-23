@@ -1,84 +1,77 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Journal Article
-% LaTeX Template
-% Version 1.4 (15/5/16)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% Frits Wenneker (http://www.howtotex.com) with extensive modifications by
-% Vel (vel@LaTeXTemplates.com)
-%
-% License:
-% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%	PACOTES, CONFIGURAÇÕES E IMPORTAÇÕES
 %----------------------------------------------------------------------------------------
 
 \documentclass[a4paper]{article}
 \usepackage{framed}
 \usepackage{mdframed}
 
-\usepackage{blindtext} % Package to generate dummy text throughout this template 
+% Gerador de Lorem Ipsum
+\usepackage{blindtext} 
 
-\usepackage[sc]{mathpazo} % Use the Palatino font
-\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
-\usepackage{parskip} % espaçamento de paragrafos
+% Use the Palatino font
+\usepackage[sc]{mathpazo} 
+
+% Use 8-bit encoding that has 256 glyphs
+\usepackage[T1]{fontenc}
+
+% espaçamento de paragrafos
+\usepackage{parskip}
+
+% Identação de Paragrafo
 \setlength{\parindent}{0pt}
-\linespread{1.3} % Line spacing - Palatino needs more space between lines
 
+% Espaçamento entre linhas
+\linespread{1.3} 
 
-\usepackage[english]{babel} % Language hyphenation and typographical rules
+% Regras de tipografia e Hifenização da linguagem
+\usepackage[english]{babel} 
 
-\usepackage[hmarginratio=1:1,top=10mm, bottom=8mm,right=13mm, left=13mm,columnsep=10pt]{geometry} % Document margins
-\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
+% Margens do Documento
+\usepackage[hmarginratio=1:1,top=10mm, bottom=8mm,right=13mm, left=13mm,columnsep=10pt]{geometry} 
+
+% Custom captions under/above floats in tables or figures
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} 
 \usepackage{booktabs} % Horizontal rules in tables
 
-\usepackage{lettrine} % The lettrine is the first enlarged letter at the beginning of the text
 
-\usepackage{enumitem} % Customized lists
-\setlist[itemize]{noitemsep} % Make itemize lists more compact
+% Listas Customizadas
+\usepackage{enumitem} 
+\setlist[itemize]{noitemsep} % Faz do itemize mais compacto
 
-\usepackage{abstract} % Allows abstract customization
-\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
-\renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
-
-
-\usepackage{titlesec} % Allows customization of titles
-\titleformat{\section}[block]{\large}{\thesection}{0.5em}{\textbf{/ / }\textbf}{} % Change the look of the section titles
+% Customização de titulos das seções
+\usepackage{titlesec} 
+\titleformat{\section}[block]{\large}{\thesection}{0.5em}{\textbf{/ / }\textbf}{}
 \titlespacing{\section}{0pt}{-3pt}{5pt}
-\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{\textbf}{} % Change the look of the section titles
+\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{\textbf}{}
 
-\usepackage{titling} % Customizing the title section
+\usepackage{titling}
 
-\usepackage{hyperref} % For hyperlinks in the PDF
+% Hyperlinks
+\usepackage{hyperref}
 \hypersetup{
   colorlinks = true,
    allcolors = blue,
   allbordercolors=0 1 0
 }
 
+% Fonte Monteserrat
 \usepackage{fontspec}
 \setmainfont{Montserrat}
     
+% Fonte de Icones
 \usepackage{fontawesome5}
+
+% Multicolunas
 \usepackage{multicol}
 
 
-%----------------------------------------------------------------------------------------
-%	TITLE SECTION
-%----------------------------------------------------------------------------------------
-
-
-
-
-
-
-%----------------------------------------------------------------------------------------
+% Remove a contagem de numeros na seções
 \setcounter{secnumdepth}{0}
 
 \begin{document}
@@ -86,12 +79,13 @@
 
 
 
-  % Print the title
+  % Titulo
   {\fontsize{40pt}{46pt}\selectfont{\textbf{GABRIEL\\VICTOR}}}\\
   \\
   \normalsize{{\Large{\faIcon{city}}} Belo Horizonte, Minas Gerais - Brazil}
+  
   %----------------------------------------------------------------------------------------
-  %	ARTICLE CONTENTS
+  %	Conteudo
   %----------------------------------------------------------------------------------------
 
   \begin{framed}
