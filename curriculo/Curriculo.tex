@@ -11,6 +11,16 @@
 \usepackage{framed}
 \usepackage{mdframed}
 
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+
+
+% Fonte de Icones
+\usepackage{fontawesome5}
+
+
 % Gerador de Lorem Ipsum
 \usepackage{blindtext} 
 
@@ -30,7 +40,7 @@
 \linespread{1.3} 
 
 % Regras de tipografia e Hifenização da linguagem
-\usepackage[english]{babel} 
+%\usepackage[english]{babel} 
 
 % Margens do Documento
 \usepackage[hmarginratio=1:1,top=10mm, bottom=8mm,right=13mm, left=13mm,columnsep=10pt]{geometry} 
@@ -60,12 +70,19 @@
   allbordercolors=0 1 0
 }
 
-% Fonte Monteserrat
+% ---------------- FONTES ---------
+% Unicode
+% \input glyphtounicode
+% \pdfgentounicode=1
+
 \usepackage{fontspec}
+
+%% Fonte Monteserrat
 \setmainfont{Montserrat}
-    
-% Fonte de Icones
-\usepackage{fontawesome5}
+
+%\setmainfont{Trueno}
+%\setmainfont{Momcake}
+% \usepackage{lmodern}
 
 % Multicolunas
 \usepackage{multicol}
