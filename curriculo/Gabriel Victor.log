@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  25 OCT 2022 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  26 OCT 2022 00:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -638,39 +638,39 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \colbreak@box=\box102
 \mc@col@check@num=\count318
 )
-LaTeX Font Info:    Trying to load font information for T1+Montserrat-TLF on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+Montserrat-TLF on input line 95.
  (/usr/share/texmf-dist/tex/latex/montserrat/T1Montserrat-TLF.fd
 File: T1Montserrat-TLF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 96.
+(Font)              scaled to size 10.0pt on input line 95.
  (./Gabriel Victor.aux)
 \openout1 = `"Gabriel Victor.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 96.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 96.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 95.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 95.
  (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    ... okay on input line 95.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count319
@@ -725,7 +725,7 @@ LaTeX Font Info:    ... okay on input line 96.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 96.
+Package hyperref Info: Link coloring ON on input line 95.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -735,31 +735,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
  (./Gabriel Victor.out) (./Gabriel Victor.out)
 \@outlinefile=\write3
 \openout3 = `"Gabriel Victor.out"'.
 
 \c@mv@tabular=\count326
 \c@mv@boldtabular=\count327
+ (./sections/00_titulo.tex
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
-(Font)              scaled to size 40.0pt on input line 104.
+(Font)              scaled to size 40.0pt on input line 4.
 
-contour: Using real outline for `\textbf {GABRIEL}' on input line 104.
+contour: Using real outline for `\textbf {GABRIEL}' on input line 4.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
-(Font)              scaled to size 40.0pt on input line 104.
-contour: Using real outline for `\textbf {VICTOR}' on input line 104.
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
-
- []
-
+(Font)              scaled to size 40.0pt on input line 4.
+contour: Using real outline for `\textbf {VICTOR}' on input line 6.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 107.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 107.
-(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd) (./sections/01_contato.tex
+(Font)              scaled to size 14.4pt on input line 10.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 10.
+(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./sections/01_contato.tex
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
@@ -864,25 +860,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 \T1/Montserrat-TLF/regular/n/8 com rep-re-sen-tantes do Nú-cleo
  []
 
-)
-Overfull \vbox (4.81523pt too high) has occurred while \output is active []
-
- [1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Gabriel Victor.aux)
 Package rerunfilecheck Info: File `"Gabriel Victor".out' has not changed.
 (rerunfilecheck)             Checksum: C906A5785F42C7E2666ECA85681B658C;1702.
  ) 
 Here is how much of TeX's memory you used:
- 17184 strings out of 478238
- 304658 string characters out of 5850455
+ 17190 strings out of 478238
+ 304780 string characters out of 5850455
  611685 words of memory out of 5000000
- 35128 multiletter control sequences out of 15000+600000
+ 35131 multiletter control sequences out of 15000+600000
  640840 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,9n,90p,1253b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 82i,9n,90p,1253b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb>
-Output written on "Gabriel Victor.pdf" (1 page, 193654 bytes).
+Output written on "Gabriel Victor.pdf" (1 page, 193661 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream

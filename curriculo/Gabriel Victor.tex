@@ -92,25 +92,21 @@
 
 % Remove a contagem de numeros na seções
 \setcounter{secnumdepth}{0}
-
 \begin{document}
 
 \contourlength{0.5pt}
 \contournumber{10}%
 \begin{multicols}{2}
-  % Titulo
+  %----------------------------------------------------------------------------------------
+  %	Titulo
+  %----------------------------------------------------------------------------------------
 
-
-  {\fontsize{40pt}{20pt}\selectfont{\contour{black}{\textbf{GABRIEL}}\\\contour{black}{\textbf{VICTOR}}}}\\
-  %{\fontsize{40pt}{40pt}\selectfont{\textbf{GABRIEL\\VICTOR}}}\\
-
-  \normalsize{{\Large{\faIcon{city}}} Belo Horizonte, Minas Gerais - Brazil}
+  \input{./sections/00_titulo.tex}
   
   %----------------------------------------------------------------------------------------
   %	Conteudo
   %----------------------------------------------------------------------------------------
-
-
+  
   \input{./sections/01_contato.tex}
   \input{./sections/02_perfil.tex}
   \input{./sections/03_habilidades.tex}

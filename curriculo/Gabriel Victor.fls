@@ -840,6 +840,10 @@ OUTPUT Gabriel Victor.pdf
 INPUT ./Gabriel Victor.out
 INPUT ./Gabriel Victor.out
 OUTPUT Gabriel Victor.out
+INPUT ./sections/00_titulo.tex
+INPUT ./sections/00_titulo.tex
+INPUT ./sections/00_titulo.tex
+INPUT ./sections/00_titulo.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/montserrat/Montserrat-Regular-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/montserrat/Montserrat-Bold-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/montserrat/Montserrat-Regular-tlf-t1.tfm
