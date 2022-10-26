@@ -1,0 +1,123 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACOTES, CONFIGURAÇÕES E IMPORTAÇÕES
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper]{article}
+\usepackage{framed}
+\usepackage{mdframed}
+
+% Fonte de Icones
+\usepackage{fontawesome5}
+
+% Gerador de Lorem Ipsum
+\usepackage{blindtext} 
+
+% Use the Palatino font
+\usepackage[sc]{mathpazo} 
+
+% Use 8-bit encoding that has 256 glyphs
+\usepackage[T1]{fontenc}
+
+% espaçamento de paragrafos
+\usepackage{parskip}
+
+% Identação de Paragrafo
+\setlength{\parindent}{0pt}
+
+% Espaçamento entre linhas
+\linespread{1.3} 
+
+% Regras de tipografia e Hifenização da linguagem
+%\usepackage[english]{babel} 
+
+% Margens do Documento
+\usepackage[hmarginratio=1:1,top=10mm, bottom=8mm,right=13mm, left=13mm,columnsep=10pt]{geometry} 
+
+% Custom captions under/above floats in tables or figures
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} 
+\usepackage{booktabs} % Horizontal rules in tables
+
+
+% Listas Customizadas
+\usepackage{enumitem} 
+\setlist[itemize]{noitemsep} % Faz do itemize mais compacto
+
+% Customização de titulos das seções
+\usepackage{titlesec} 
+\titleformat{\section}[block]{\large}{\thesection}{0.5em}{\textbf{/ / }\textbf}{}
+\titlespacing{\section}{0pt}{-3pt}{5pt}
+\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{\textbf}{}
+
+\usepackage{titling}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks = true,
+   allcolors = blue,
+  allbordercolors=0 1 0
+}
+
+% ---------------- FONTES ---------
+% Unicode
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\input glyphtounicode
+%\pdfgentounicode=1
+\usepackage[defaultfam,tabular,lining]{montserrat} %% Option 'defaultfam'
+%% only if the base font of the document is to be sans serif
+\renewcommand*\oldstylenums[1]{{\fontfamily{Montserrat-TOsF}\selectfont #1}}
+
+\usepackage[outline]{contour}% http://ctan.org/pkg/contour
+\usepackage{xcolor}% http://ctan.org/pkg/xcolor
+%\usepackage{fontspec}
+
+%% Fonte Monteserrat
+%\setmainfont{Montserrat}
+
+%\setmainfont{Trueno}
+%\setmainfont{Momcake}
+%\usepackage{lmodern}
+
+% Multicolunas
+\usepackage{multicol}
+
+
+
+
+% Remove a contagem de numeros na seções
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+\contourlength{0.5pt}
+\contournumber{10}%
+\begin{multicols}{2}
+  % Titulo
+
+
+  {\fontsize{40pt}{20pt}\selectfont{\contour{black}{\textbf{GABRIEL}}\\\contour{black}{\textbf{VICTOR}}}}\\
+  %{\fontsize{40pt}{40pt}\selectfont{\textbf{GABRIEL\\VICTOR}}}\\
+
+  \normalsize{{\Large{\faIcon{city}}} Belo Horizonte, Minas Gerais - Brazil}
+  
+  %----------------------------------------------------------------------------------------
+  %	Conteudo
+  %----------------------------------------------------------------------------------------
+
+
+  \input{./sections/01_contato.tex}
+  \input{./sections/02_perfil.tex}
+  \input{./sections/03_habilidades.tex}
+  \input{./sections/04_conhecimentos.tex}
+  \input{./sections/05_formacao.tex}
+  \input{./sections/06_portifolio.tex}
+  \input{./sections/07_experiencia_profissional.tex}
+
+\end{multicols}
+\end{document}
