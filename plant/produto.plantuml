@@ -1,0 +1,44 @@
+@startuml
+actor Gerente
+
+participant ProdutoView
+participant ProdutoController
+participant ProdutoModel
+
+
+
+Gerente -> ProdutoView : associarProduto(Codigo)
+activate ProdutoView
+ProdutoView -> ProdutoController: validarCodigo(Codigo)
+activate ProdutoController
+alt Codigo Ok
+    ProdutoController -> ProdutoModel : getFornecedores()
+    activate ProdutoModel
+    ProdutoModel -->> ProdutoController: Lista<Fornecedores>
+    deactivate ProdutoModel
+    ProdutoController -->> ProdutoView : Lista<Fornecedores>
+    deactivate ProdutoController
+    ProdutoView -->> Gerente : Lista<Fornecedores>
+    deactivate ProdutoView
+
+    loop Para cada fornecedor
+        alt associar Fornecedor
+            Gerente -> ProdutoView: associar(valor, Fornecedor, Produto)
+            activate ProdutoView
+            ProdutoView -> ProdutoController: associar(valor, Fornecedor, Produto)
+            activate ProdutoController
+            ProdutoController -> ProdutoModel : salvarAssociacao(Fornecedor, Produto )
+            activate ProdutoModel
+            deactivate ProdutoModel
+            deactivate ProdutoController
+        ProdutoView -->> Gerente : "Fornecedor associado com sucesso"
+        deactivate ProdutoView
+        end
+        alt não associar
+            Gerente ->> ProdutoView: proximo fornecedor
+            activate ProdutoView
+            deactivate ProdutoView
+        end
+    end
+end
+@enduml

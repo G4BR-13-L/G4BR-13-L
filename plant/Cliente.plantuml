@@ -1,0 +1,29 @@
+@startuml
+actor Vendedor
+
+participant ClienteView
+participant ClienteController
+participant ClienteModel
+
+Vendedor -> ClienteView : cadastrar(nome, cpf)
+activate ClienteView
+ClienteView -> ClienteController : cadastrarCliente(Cliente)
+activate ClienteController
+
+ClienteController -> ClienteModel: clienteExiste(Cliente)
+activate ClienteModel
+alt cliente existe
+    ...Cliente existe...
+    ClienteModel -->> ClienteController: true
+    ClienteController -->> ClienteView : "Cliente Ja cadastrado"
+    deactivate ClienteController
+    ClienteView -->> Vendedor : "Cliente Ja cadastrado"
+
+    ...Cliente NÃO existe...
+    ClienteModel -->> ClienteController: false
+    ClienteController -->> ClienteView : "Cliente Ja cadastrado"
+    deactivate ClienteController
+    ClienteView -->> Vendedor : "Cliente Ja cadastrado"
+    deactivate ClienteModel
+end
+@enduml
