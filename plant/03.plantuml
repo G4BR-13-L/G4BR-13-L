@@ -1,0 +1,71 @@
+@startuml
+actor Gestor
+
+participant DisciplinaView
+participant DisciplinaController
+participant DisciplinaModel
+
+
+
+Gestor -> DisciplinaView : cadastrarDisciplina(Nome, Professor)
+activate DisciplinaView
+DisciplinaView -> DisciplinaController: CadastrarDisciplina(Disciplina, Professor)
+activate DisciplinaController
+DisciplinaController -> DisciplinaModel : DisciplinaExiste(Disciplina)
+alt Disciplina
+    ...Disciplina ja cadastrada...
+    DisciplinaModel -> DisciplinaController : true
+    DisciplinaController -> DisciplinaView : "Disciplina ja cadastrada"
+    DisciplinaView -> Gestor: "Disciplina ja cadastrada"
+    ...Disciplina NÃO Existe...
+    DisciplinaController -> DisciplinaModel: "Sucesso":CadastrarDisciplina(Disciplina)
+    deactivate DisciplinaModel
+    deactivate DisciplinaController
+    deactivate DisciplinaView
+end
+
+Gestor -> DisciplinaView : SelecionarDisciplina(id)
+activate DisciplinaView
+DisciplinaView -> DisciplinaController : getDisciplina(id)
+activate DisciplinaController
+DisciplinaController -> DisciplinaModel: getDisciplinaById(id)
+activate DisciplinaModel
+group selecionar disciplina
+    alt seleciona disciplina
+        ...DisciplinaEncontrada...
+        DisciplinaModel -->> DisciplinaController : Disciplina
+        DisciplinaController -->> DisciplinaView : Disciplina
+        ...Disciplina NÃO Encontrada...
+        DisciplinaModel -->> DisciplinaController : "Disciplina Não Encontrada"
+        DisciplinaController -->> DisciplinaView:  "Disciplina Não Encontrada"
+        deactivate DisciplinaModel
+        deactivate DisciplinaController
+        deactivate DisciplinaView
+    end
+end
+
+group Editar Disciplina
+    ref over Gestor,DisciplinaView,DisciplinaController, DisciplinaModel : selecionar disciplina
+    Gestor -> DisciplinaView: Sucesso:editarDisciplina( Disciplina )
+    DisciplinaView-> DisciplinaController: editarDisciplina( Disciplina )
+    activate DisciplinaController
+    DisciplinaController -> DisciplinaModel : :editarDisciplina( Disciplina )
+    activate DisciplinaModel
+    deactivate DisciplinaModel
+    deactivate DisciplinaController
+    deactivate DisciplinaView
+end
+
+group Excluir Disciplina
+    ref over Gestor,DisciplinaView,DisciplinaController, DisciplinaModel : selecionar disciplina
+    Gestor -> DisciplinaView: Sucesso:exluirDisciplina( Disciplina )
+    DisciplinaView-> DisciplinaController: exluirDisciplina( Disciplina )
+    activate DisciplinaController
+    DisciplinaController -> DisciplinaModel : :exluirDisciplina( Disciplina )
+    activate DisciplinaModel
+    deactivate DisciplinaModel
+    deactivate DisciplinaController
+    deactivate DisciplinaView
+end
+
+@enduml

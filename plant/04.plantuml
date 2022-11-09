@@ -1,0 +1,46 @@
+'4. Seja a seguinte descrição de um use case denominado Emprestar Livros, contido em um sistema de  controle de biblioteca:
+
+'O usuário entra com o ISBN do livro ou seu título. O sistema procura pelo mesmo em sua base de dados e, caso encontre, retorna uma tela contendo links para os resultados da pesquisa(título, autor do livro, edição). Se não encontrar, o sistema retorna uma mensagem de erro. O aluno seleciona o link desejado e o sistema retorna informações sobre o livro (título, autor, descrição, ano, editora, etc) em uma tela de confirmação do pedido de empréstimo. Se o aluno confirmar o empréstimo o sistema verifica se o livro existe em estoque para empréstimo. Se existir, o sistema dá a baixa no estoque, registra empréstimo do aluno e mostra uma tela contendo um ticket para retirada do livro (a ser impressa). Se não existir, emite mensagem informando ao aluno.
+
+@startuml
+actor Usuario
+participant LivroView
+participant LivroController
+participant LivroModel
+
+Usuario -> LivroView : Livro(String)
+activate LivroView
+LivroView -> LivroController : findLivro(String)
+activate LivroController
+LivroController -> LivroModel: findLivro(id)
+activate LivroModel
+
+group selecionar Livro
+    alt seleciona Livro
+        ...LivroEncontrado...
+        LivroModel -->> LivroController : Livro
+        LivroController -->> LivroView : Livro
+        ...Livro NÃO Encontrado...
+        LivroModel -->> LivroController : "Livro Indisponivel"
+        LivroController -->> LivroView:  "Livro Indisponivel"
+        deactivate LivroModel
+        deactivate LivroController
+        deactivate LivroView
+    end
+end
+
+group Fazer emprestimo
+ ref over Usuario, LivroView, LivroController, LivroModel : SelecionarLivro
+ Usuario -> EmprestimoView : Emprestar(Livro)
+ activate EmprestimoView
+ EmprestimoView -> EmprestimoController : Emprestar(Livro)
+ activate EmprestimoController
+ EmprestimoController -> EmprestimoModel : Emprestar(Livro)
+ activate EmprestimoModel
+ deactivate EmprestimoModel
+ deactivate EmprestimoController
+ deactivate EmprestimoView
+    
+end
+
+@enduml
