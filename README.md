@@ -21,21 +21,25 @@
 
 ### Eu...
 * 🎓 Estudo Engenharia de Software na **PUC Minas** [ 4º Período ]
-* 🔭 Estou atualmente explorando **Java**🔥
-* 💻 Estou desenvolvedo projetos em NextJs <!--**[Time-Brother](https://github.com/IPROjr-SI/IPRO-no-time-brother)**-->
+* 🔭 Estou atualmente explorando **Java 🤝 Spring**🔥
+* 💻 Estou desenvolvedo projetos em NextJs [ com firebase, com spring, com angular, com Postgres,  com versão mobile em Flutter, com LaTeX e outros. Stack ta caprichada 👌 ]   
 
 
 ### Ferramentas
 
 #### O que estou estudando
 
-
-
 &ensp;<code>
 <img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 &ensp;<code>
 <img src="icons/java.png" width="48px" style="border-radius:5px !important;"/>
+</code>&ensp;<code>
+<img src="icons/spring.png" width="48px" style="border-radius:5px !important;"/>
+</code>&ensp;<code>
+<img src="icons/flutter.png" width="48px" style="border-radius:5px !important;"/>
+</code>&ensp;<code>
+<img src="icons/angular.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
 
 

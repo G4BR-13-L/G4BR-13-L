@@ -30,17 +30,17 @@ group selecionar Livro
 end
 
 group Fazer emprestimo
- ref over Usuario, LivroView, LivroController, LivroModel : SelecionarLivro
- Usuario -> EmprestimoView : Emprestar(Livro)
- activate EmprestimoView
- EmprestimoView -> EmprestimoController : Emprestar(Livro)
- activate EmprestimoController
- EmprestimoController -> EmprestimoModel : Emprestar(Livro)
- activate EmprestimoModel
- deactivate EmprestimoModel
- deactivate EmprestimoController
- deactivate EmprestimoView
-    
+    ref over Usuario, LivroView, LivroController, LivroModel : SelecionarLivro
+    Usuario -> EmprestimoView : Emprestar(Livro)
+    activate EmprestimoView
+    EmprestimoView -> EmprestimoController : Emprestar(Livro)
+    activate EmprestimoController
+    EmprestimoController -> EmprestimoModel : Emprestar(Livro)
+    activate EmprestimoModel
+    deactivate EmprestimoModel
+    deactivate EmprestimoController
+    deactivate EmprestimoView
+
 end
 
 @enduml
