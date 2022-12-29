@@ -29,6 +29,46 @@
 
 #### O que estou estudando
 
+<code>
+<img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/java.png" width="48px" style="border-radius:5px !important;"/>
+</code><code>
+<img src="icons/spring.png" width="48px" style="border-radius:5px !important;"/>
+</code><code>
+<img src="icons/flutter.png" width="48px" style="border-radius:5px !important;"/>
+</code><code>
+<img src="icons/angular.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+
+
+#### O que sei fazer em Front-End 
+<code>
+<img src="icons/html.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/css.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/js.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/ts.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/react.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/firebase.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+<code>
+<img src="icons/next.png" width="48px" style="border-radius:5px !important;"/>
+</code>
+
+
+<!-- #### O que estou estudando
+
 &ensp;<code>
 <img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/>
 </code>&ensp;
@@ -67,7 +107,7 @@
 </code>&ensp;
 <!--&ensp;<code>
 <img src="icons/python.png" width="48px" style="border-radius:5px !important;"/>
-</code>-->
+</code>--> -->
 
 
 <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif"/>
