@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666753938 "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Gabriel Victor.tex" "Gabriel Victor.pdf" "Gabriel Victor" 1666753939
+["pdflatex"] 1670772929 "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Gabriel Victor.tex" "Gabriel Victor.pdf" "Gabriel Victor" 1670772930
   "/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Gabriel Victor.tex" 1666753938 3188 ed010324c65bdc836df029993561ece2 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1650179560 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1650179560 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -132,13 +132,13 @@
   "/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty" 1650181202 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "/usr/share/texmf-dist/tex/latex/zref/zref-base.sty" 1650181202 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633934 4274437 4d5cf373c337d02da3c4bc48e1cf0da0 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633908 2927661 32ab60e02e2f0631aadd93fc43f72a07 ""
-  "Gabriel Victor.aux" 1666753939 1894 6cc3427e24d105dbe5366317f4cb2d71 "pdflatex"
-  "Gabriel Victor.out" 1666753939 1702 c906a5785f42c7e2666eca85681b658c "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669853780 4274437 4d5cf373c337d02da3c4bc48e1cf0da0 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1668035688 2927664 60f2598d1fca26fd61f05de9a0cafe44 ""
+  "Gabriel Victor.aux" 1670772930 1894 6cc3427e24d105dbe5366317f4cb2d71 "pdflatex"
+  "Gabriel Victor.out" 1670772930 1702 c906a5785f42c7e2666eca85681b658c "pdflatex"
   "Gabriel Victor.tex" 1666753938 3188 ed010324c65bdc836df029993561ece2 ""
   "sections/00_titulo.tex" 1666753882 345 83b3030582b81c7b972c0521c31d9b13 ""
-  "sections/01_contato.tex" 1666738093 491 56ae0736548dd3823441163f97fae327 ""
+  "sections/01_contato.tex" 1670772926 491 56ae0736548dd3823441163f97fae327 ""
   "sections/02_perfil.tex" 1666738121 562 1ba7b95954a3395473e2f0e4e67e7312 ""
   "sections/03_habilidades.tex" 1666738131 292 ef9327a15fb15501b31572433f7e4535 ""
   "sections/04_conhecimentos.tex" 1666738162 279 155dc6d84efa55ba422618b60941444f ""
