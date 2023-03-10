@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.9)  11 DEC 2022 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.7)  31 JAN 2023 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Gabriel Victor.tex"
-(/home/gabriel/Codes/GABRIEL/G4BR-13-L/curriculo/Gabriel Victor.tex
+**"/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex"
+(/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-10> (/usr/share/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,74 +22,74 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/usr/share/texmf-dist/tex/latex/framed/framed.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip49
 \fb@frw=\dimen139
 \fb@frh=\dimen140
 \FrameRule=\dimen141
 \FrameSep=\dimen142
-) (/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
- (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-04-10 L3 programming layer (loader) 
- (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box50
 ))
 Package: xparse 2022-01-12 L3 Experimental document command parser
-) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count194
-) (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
- (/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
- (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-Package zref Info: New property list: main on input line 767.
-Package zref Info: New property: default on input line 768.
-Package zref Info: New property: page on input line 769.
-) (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
 \c@abspage=\count195
-Package zref Info: New property: abspage on input line 65.
-) (/usr/share/texmf-dist/tex/latex/needspace/needspace.sty
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
-) (/usr/share/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
- (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \mdf@templength=\skip50
@@ -133,7 +133,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \mdf@subsubtitlebelowskip@length=\skip87
 \mdf@subsubtitleinneraboveskip@length=\skip88
 \mdf@subsubtitleinnerbelowskip@length=\skip89
- (/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+ (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box51
@@ -179,15 +179,15 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count266
 \c@mdf@zref@counter=\count267
 Package zref Info: New property: mdf@pagevalue on input line 895.
-) (/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
- (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-) (/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
 Package: fontawesome5-generic-helper 2021/06/04 v5.15.3 non-uTeX helper for fontawesome5
- (/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count268
@@ -208,19 +208,19 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count283
 \c@blind@pangramcount=\count284
 \c@blind@pangrammax=\count285
-) (/usr/share/texmf-dist/tex/latex/psnfss/mathpazo.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
-) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+pplx on input line 112.
- (/usr/share/texmf-dist/tex/latex/psnfss/t1pplx.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
-)) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count286
@@ -235,138 +235,139 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks17
-) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
- (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen151
-\captionmargin=\dimen152
-\caption@leftmargin=\dimen153
-\caption@rightmargin=\dimen154
-\caption@width=\dimen155
-\caption@indent=\dimen156
-\caption@parindent=\dimen157
-\caption@hangindent=\dimen158
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count289
 \c@continuedfloat=\count290
-) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen159
-\lightrulewidth=\dimen160
-\cmidrulewidth=\dimen161
-\belowrulesep=\dimen162
-\belowbottomsep=\dimen163
-\aboverulesep=\dimen164
-\abovetopsep=\dimen165
-\cmidrulesep=\dimen166
-\cmidrulekern=\dimen167
-\defaultaddspace=\dimen168
+\heavyrulewidth=\dimen158
+\lightrulewidth=\dimen159
+\cmidrulewidth=\dimen160
+\belowrulesep=\dimen161
+\belowbottomsep=\dimen162
+\aboverulesep=\dimen163
+\abovetopsep=\dimen164
+\cmidrulesep=\dimen165
+\cmidrulekern=\dimen166
+\defaultaddspace=\dimen167
 \@cmidla=\count291
 \@cmidlb=\count292
-\@aboverulesep=\dimen169
-\@belowrulesep=\dimen170
+\@aboverulesep=\dimen168
+\@belowrulesep=\dimen169
 \@thisruleclass=\count293
 \@lastruleclass=\count294
-\@thisrulewidth=\dimen171
-) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+\@thisrulewidth=\dimen170
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip117
-\enit@outerparindent=\dimen172
+\enit@outerparindent=\dimen171
 \enit@toks=\toks18
 \enit@inbox=\box56
 \enit@count@id=\count295
 \enitdp@description=\count296
-) (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box57
 \beforetitleunit=\skip118
 \aftertitleunit=\skip119
-\ttl@plus=\dimen173
-\ttl@minus=\dimen174
+\ttl@plus=\dimen172
+\ttl@minus=\dimen173
 \ttl@toksa=\toks19
-\titlewidth=\dimen175
-\titlewidthlast=\dimen176
-\titlewidthfirst=\dimen177
-) (/usr/share/texmf-dist/tex/latex/titling/titling.sty
+\titlewidth=\dimen174
+\titlewidthlast=\dimen175
+\titlewidthfirst=\dimen176
+) (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip120
 \thanksmargin=\skip121
 \droptitle=\skip122
-) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
- (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-\@linkdim=\dimen178
+\@linkdim=\dimen177
 \Hy@linkcounter=\count297
 \Hy@pagecounter=\count298
- (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count299
- (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
+Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count300
- (/usr/share/texmf-dist/tex/latex/url/url.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen179
- (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen178
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count301
-\Field@Width=\dimen180
-\Fld@charsize=\dimen181
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
+\Field@Width=\dimen179
+\Fld@charsize=\dimen180
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 \Hy@abspage=\count302
 \c@Item=\count303
 \c@Hfootnote=\count304
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
- (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \HyAnn@Count=\count305
 \Fld@listcount=\count306
 \c@bookmark@seq@number=\count307
- (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
@@ -374,21 +375,21 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip123
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 64.
- (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-) (/usr/share/texmf-dist/tex/latex/montserrat/montserrat.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/montserrat/montserrat.sty
 Package: montserrat 2019/11/07 v1.03
- `montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharpe) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+ `montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharpe) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (/usr/share/texmf-dist/tex/latex/ly1/ly1enc.def
+ (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
 File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
- (/usr/share/texmf-dist/tex/latex/base/ly1enc.dfu
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ly1enc.dfu
 File: ly1enc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -515,9 +516,9 @@ File: ly1enc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-))) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -531,31 +532,31 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
 LaTeX Info: Redefining \textin on input line 42.
- (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
 )
 \XKV@depth=\count308
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (/usr/share/texmf-dist/tex/latex/contour/contour.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/contour/contour.sty
 Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
- (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 \con@length=\skip124
 
 Loading configuration file `contour.cfg'.
-(/usr/share/texmf-dist/tex/latex/contour/contour.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/contour/contour.cfg
 File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
 )
 contour: Using driver file `pdftex.cnt'.
-(/usr/share/texmf-dist/tex/latex/contour/pdftex.cnt
+(/usr/share/texlive/texmf-dist/tex/latex/contour/pdftex.cnt
 File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
-)) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
- (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
@@ -569,25 +570,25 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count309
 \mult@box=\box58
-\multicol@leftmargin=\dimen182
+\multicol@leftmargin=\dimen181
 \c@unbalance=\count310
 \c@collectmore=\count311
 \doublecol@number=\count312
 \multicoltolerance=\count313
 \multicolpretolerance=\count314
-\full@width=\dimen183
-\page@free=\dimen184
-\premulticols=\dimen185
-\postmulticols=\dimen186
+\full@width=\dimen182
+\page@free=\dimen183
+\premulticols=\dimen184
+\postmulticols=\dimen185
 \multicolsep=\skip125
 \multicolbaselineskip=\skip126
 \partial@page=\box59
 \last@line=\box60
-\maxbalancingoverflow=\dimen187
+\maxbalancingoverflow=\dimen186
 \mult@rightbox=\box61
 \mult@grightbox=\box62
 \mult@firstbox=\box63
@@ -631,15 +632,15 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@minrows=\count315
 \c@columnbadness=\count316
 \c@finalcolumnbadness=\count317
-\last@try=\dimen188
-\multicolovershoot=\dimen189
-\multicolundershoot=\dimen190
+\last@try=\dimen187
+\multicolovershoot=\dimen188
+\multicolundershoot=\dimen189
 \mult@nat@firstbox=\box101
 \colbreak@box=\box102
 \mc@col@check@num=\count318
 )
 LaTeX Font Info:    Trying to load font information for T1+Montserrat-TLF on input line 95.
- (/usr/share/texmf-dist/tex/latex/montserrat/T1Montserrat-TLF.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/montserrat/T1Montserrat-TLF.fd
 File: T1Montserrat-TLF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
@@ -667,25 +668,25 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
 LaTeX Font Info:    ... okay on input line 95.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 95.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 95.
- (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 95.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count319
-\scratchdimen=\dimen191
+\scratchdimen=\dimen190
 \scratchbox=\box103
 \nofMPsegments=\count320
 \nofMParguments=\count321
 \everyMPshowfont=\toks24
 \MPscratchCnt=\count322
-\MPscratchDim=\dimen192
+\MPscratchDim=\dimen191
 \MPnumerator=\count323
 \makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks25
 )
-\big@size=\dimen193
+\big@size=\dimen192
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -726,11 +727,11 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 95.
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
- (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
@@ -738,7 +739,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 95.
 LaTeX Info: Redefining \pageref on input line 95.
 LaTeX Info: Redefining \nameref on input line 95.
- (./Gabriel Victor.out) (./Gabriel Victor.out)
 \@outlinefile=\write3
 \openout3 = `"Gabriel Victor.out"'.
 
@@ -755,48 +755,48 @@ contour: Using real outline for `\textbf {VICTOR}' on input line 6.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 10.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 10.
-(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./sections/01_contato.tex
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./sections/01_contato.tex
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+Montserrat-TLF on input line 4.
- (/usr/share/texmf-dist/tex/latex/montserrat/TS1Montserrat-TLF.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/montserrat/TS1Montserrat-TLF.fd
 File: TS1Montserrat-TLF.fd 2019/11/07 (autoinst) Font definitions for TS1/Montserrat-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Montserrat-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 4.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 4.
- (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 5.
- (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <14.4> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 5.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 6.
- (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)) (./sections/02_perfil.tex
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)) (./sections/02_perfil.tex
 Underfull \hbox (badness 6944) in paragraph at lines 7--8
 []\T1/Montserrat-TLF/regular/n/10 Acredito que os mel-hores tra-bal-hos são a
  []
 
 ) (./sections/03_habilidades.tex
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 3.
- (/usr/share/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 3.
- (/usr/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 3.
- (/usr/share/texmf-dist/tex/latex/psnfss/omszplm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 3.
- (/usr/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 3.
- (/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )) (./sections/04_conhecimentos.tex) (./sections/05_formacao.tex
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
@@ -815,70 +815,55 @@ LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/it' will be
 (Font)              scaled to size 10.0pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/sc' will be
 (Font)              scaled to size 10.0pt on input line 14.
+LaTeX Font Info:    Font shape `TS1/Montserrat-TLF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 15.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\T1/Montserrat-TLF/regular/n/8 acom-pan-hamento e ex-e-cução
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faIcon' on input line 20.
+
+./sections/07_experiencia_profissional.tex:27: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.27 \emph{Mar 2022}   &
+                         \textsc{Dev React, React Native e Wordpress }   \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (141.00024pt too wide) in paragraph at lines 22--35
+[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\T1/Montserrat-TLF/regular/n/8 manutenção de Kan-Bans com
+Underfull \vbox (badness 10000) detected at line 36
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\T1/Montserrat-TLF/regular/n/8 Pipefy, No-tion e planil-has, ne-
- []
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./Gabriel Victor.aux)
 
+Package rerunfilecheck Warning: File `"Gabriel Victor".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\T1/Montserrat-TLF/regular/n/8 go-ci-ação e co-lab-o-ração com o
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-[]\T1/Montserrat-TLF/regular/n/8 Pesquisas de vi-a-bil-i-dade, elab-o-
- []
-
-
-Underfull \hbox (badness 7667) in paragraph at lines 19--20
-\T1/Montserrat-TLF/regular/n/8 sites em Word-Press, de-sen-volvi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-[]\T1/Montserrat-TLF/regular/n/8 Resolução de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-\T1/Montserrat-TLF/regular/n/8 cases,desenvolvimento de pitch,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-\T1/Montserrat-TLF/regular/n/8 com rep-re-sen-tantes do Nú-cleo
- []
-
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Gabriel Victor.aux)
-Package rerunfilecheck Info: File `"Gabriel Victor".out' has not changed.
-(rerunfilecheck)             Checksum: C906A5785F42C7E2666ECA85681B658C;1702.
+Package rerunfilecheck Info: Checksums for `"Gabriel Victor".out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  52DAC6CAF116DADB9EEB84E4A663BEE6;1912.
  ) 
 Here is how much of TeX's memory you used:
- 17190 strings out of 478238
- 304780 string characters out of 5850456
- 611685 words of memory out of 5000000
- 35131 multiletter control sequences out of 15000+600000
- 640840 words of font info for 69 fonts, out of 8000000 for 9000
+ 17145 strings out of 478287
+ 305617 string characters out of 5849289
+ 602347 words of memory out of 5000000
+ 35042 multiletter control sequences out of 15000+600000
+ 641782 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,9n,90p,1253b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb>
-Output written on "Gabriel Victor.pdf" (1 page, 193661 bytes).
+ 82i,9n,90p,1253b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb>
+Output written on "Gabriel Victor.pdf" (2 pages, 194817 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
