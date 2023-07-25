@@ -20,7 +20,7 @@
 
 
 ### Eu...
-* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 5º Período ]
+* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 6º Período ]
 * 🔭 Estou atualmente explorando **Java 🤝 Spring**🔥
 * 💻 Estou desenvolvedo projetos em Angular [ com firebase, com spring, com angular, com Postgres,  com versão mobile em Flutter, com LaTeX e outros. Stack ta caprichada 👌 ]   
 
