@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1700135425 "/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex" "Gabriel Victor.pdf" "Gabriel Victor" 1700135426
+["pdflatex"] 1700152747 "/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex" "Gabriel Victor.pdf" "Gabriel Victor" 1700152748
   "/etc/texmf/web2c/texmf.cnf" 1670457505 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex" 1700135423 3185 9160f1f292ce0d34cfc6718c0804154b ""
+  "/home/gabriel/Codes/Gabriel/G4BR-13-L/curriculo/Gabriel Victor.tex" 1700152725 3183 1aaf1deecd3d57616df285da0aed904e ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -137,9 +137,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1678500935 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685623041 2799410 92287c0bc03dd20beb99eee8a16498a2 ""
-  "Gabriel Victor.aux" 1700135426 2019 bf8e39825aa024ce7b99d74d66c31868 "pdflatex"
-  "Gabriel Victor.out" 1700135426 1894 142b53b7f783569df1878826c008db56 "pdflatex"
-  "Gabriel Victor.tex" 1700135423 3185 9160f1f292ce0d34cfc6718c0804154b ""
+  "Gabriel Victor.aux" 1700152747 2019 5fb5a3440315e31c7be1434d2c5454fc "pdflatex"
+  "Gabriel Victor.out" 1700152747 1894 142b53b7f783569df1878826c008db56 "pdflatex"
+  "Gabriel Victor.tex" 1700152725 3183 1aaf1deecd3d57616df285da0aed904e ""
   "sections/00_titulo.tex" 1689039059 345 83b3030582b81c7b972c0521c31d9b13 ""
   "sections/01_contato.tex" 1670442596 491 56ae0736548dd3823441163f97fae327 ""
   "sections/02_perfil.tex" 1670442596 562 1ba7b95954a3395473e2f0e4e67e7312 ""
@@ -147,7 +147,7 @@
   "sections/04_conhecimentos.tex" 1670442596 279 155dc6d84efa55ba422618b60941444f ""
   "sections/05_formacao.tex" 1670442596 317 5e362b272f77842354404e3213f7a96d ""
   "sections/06_portifolio.tex" 1670442596 670 605d3ef6c99b697745b333c14cea2aaf ""
-  "sections/07_experiencia_profissional.tex" 1700135390 2375 757917dc754cdb1eb831f22b554c2555 ""
+  "sections/07_experiencia_profissional.tex" 1700152745 2375 29918f1727f58bea2a2a2cac8bc5e07c ""
   (generated)
   "Gabriel Victor.aux"
   "Gabriel Victor.log"

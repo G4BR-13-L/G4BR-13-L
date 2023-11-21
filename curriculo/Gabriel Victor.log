@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  16 NOV 2023 08:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  16 NOV 2023 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,6 +814,31 @@ LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/it' will be
 (Font)              scaled to size 10.0pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/sc' will be
 (Font)              scaled to size 10.0pt on input line 14.
+
+Underfull \hbox (badness 4001) in paragraph at lines 14--15
+[]\T1/Montserrat-TLF/regular/sc/10 Estagiário de De-sen-volvi-mento
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 15--16
+\T1/Montserrat-TLF/regular/n/8 tu-nidade de li-dar com di-ver-sas tenolo-
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 15--16
+\T1/Montserrat-TLF/regular/n/8 de de-sen-volvi-mento da em-presa. Lidei
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 15--16
+\T1/Montserrat-TLF/regular/n/8 muitas coisas, mas além da tec-nolo-gia,
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 15--16
+\T1/Montserrat-TLF/regular/n/8 aprendi a li-dar com pri-or-iza-ções, com
+ []
+
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
 (Font)              scaled to size 8.0pt on input line 17.
 
@@ -821,11 +846,42 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faIcon' on input line 23.
 
 
-Underfull \vbox (badness 6332) detected at line 39
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\T1/Montserrat-TLF/regular/n/8 Levantamento, análise e es-peci-fi-cação
  []
 
 
-Overfull \vbox (25.91678pt too high) detected at line 39
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\T1/Montserrat-TLF/regular/n/8 de req-ui-si-tos; met-ri-fi-cação, acom-pan-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 27--28
+\T1/Montserrat-TLF/regular/n/8 hamento e ex-e-cução de pro-je-tos como
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 31--32
+[]\T1/Montserrat-TLF/regular/n/8 Pesquisas de vi-a-bil-i-dade, elab-o-ração de
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 31--32
+\T1/Montserrat-TLF/regular/n/8 volvi-mento de sites em Word-Press, de-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 35--36
+[]\T1/Montserrat-TLF/regular/n/8 Resolução de cases,desenvolvimento de
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 35--36
+\T1/Montserrat-TLF/regular/n/8 pitch, treina-mento em pipefy, palestras
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 39
  []
 
 [1
@@ -837,13 +893,13 @@ Package rerunfilecheck Info: File `"Gabriel Victor".out' has not changed.
 Here is how much of TeX's memory you used:
  17160 strings out of 478287
  305746 string characters out of 5849290
- 606501 words of memory out of 5000000
+ 603501 words of memory out of 5000000
  35055 multiletter control sequences out of 15000+600000
  656739 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,9n,90p,1253b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb>
-Output written on "Gabriel Victor.pdf" (2 pages, 196036 bytes).
+Output written on "Gabriel Victor.pdf" (2 pages, 196214 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
