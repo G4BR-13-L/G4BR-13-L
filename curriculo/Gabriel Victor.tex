@@ -35,7 +35,7 @@
 %\usepackage[english]{babel} 
 
 % Margens do Documento
-\usepackage[hmarginratio=1:1,top=10mm, bottom=8mm,right=13mm, left=13mm,columnsep=10pt]{geometry} 
+\usepackage[hmarginratio=1:1,top=8mm, bottom=8mm,right=8mm, left=8mm,columnsep=10pt]{geometry} 
 
 % Custom captions under/above floats in tables or figures
 \usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} 
@@ -86,7 +86,17 @@
 % Multicolunas
 \usepackage{multicol}
 
-
+\mdfsetup{
+  linewidth=0.025cm,
+  splitbottomskip=0cm,
+  splittopskip=0cm,
+  innerrightmargin=0.5cm,
+  innerleftmargin=0.5cm,
+  innertopmargin=0.5cm,%
+  innerbottommargin=0.5cm,%
+  innerlinewidth=2pt,
+  outerlinewidth=2pt,
+}
 
 
 % Remove a contagem de numeros na seções
@@ -96,23 +106,24 @@
 \contourlength{0.5pt}
 \contournumber{10}%
 \begin{multicols}{2}
-  %----------------------------------------------------------------------------------------
-  %	Titulo
-  %----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	Titulo
+%----------------------------------------------------------------------------------------
 
-  \input{./sections/00_titulo.tex}
+\input{./sections/00_titulo.tex}
 
-  %----------------------------------------------------------------------------------------
-  %	Conteudo
-  %----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	Conteudo
+%----------------------------------------------------------------------------------------
 
-  \input{./sections/01_contato.tex}
-  \input{./sections/02_perfil.tex}
-  \input{./sections/03_habilidades.tex}
-  \input{./sections/04_conhecimentos.tex}
-  \input{./sections/05_formacao.tex}
-  \input{./sections/06_portifolio.tex}
+    \input{./sections/01_contato.tex}
+    \input{./sections/02_resumo.tex}
+    \input{./sections/03_habilidades.tex}
+    \input{./sections/04_conhecimentos.tex}
+    \input{./sections/05_formacao.tex}
+    \input{./sections/06_portifolio.tex}
 \end{multicols}
+\newpage
 \input{./sections/07_experiencia_profissional.tex}
 
 \end{document}
