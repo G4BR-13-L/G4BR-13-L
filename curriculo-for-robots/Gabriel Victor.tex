@@ -7,11 +7,10 @@
 %	PACOTES, CONFIGURAÇÕES E IMPORTAÇÕES
 %----------------------------------------------------------------------------------------
 \documentclass[a4paper]{article}
-\usepackage{framed}
-\usepackage{mdframed}
+\renewcommand{\familydefault}{\sfdefault}
 
-% Fonte de Icones
-\usepackage{fontawesome5}
+\usepackage[10pt]{extsizes}
+
 
 % Gerador de Lorem Ipsum
 \usepackage{blindtext} 
@@ -48,8 +47,10 @@
 
 % Customização de titulos das seções
 \usepackage{titlesec} 
-\titleformat{\section}[block]{\large}{\thesection}{0.5em}{\textbf{/ / }\textbf}{}
-\titlespacing{\section}{0pt}{-3pt}{5pt}
+\titleformat{\section}[block]{\fontsize{12pt}{}}{\thesection}{0.5em}{\textbf}{
+
+}
+\titlespacing{\section}{0pt}{10pt}{5pt}
 \titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{\textbf}{}
 
 \usepackage{titling}
@@ -68,62 +69,29 @@
 \usepackage[utf8]{inputenc}
 %\input glyphtounicode
 %\pdfgentounicode=1
-\usepackage[defaultfam,tabular,lining]{montserrat} %% Option 'defaultfam'
-%% only if the base font of the document is to be sans serif
-\renewcommand*\oldstylenums[1]{{\fontfamily{Montserrat-TOsF}\selectfont #1}}
 
-\usepackage[outline]{contour}% http://ctan.org/pkg/contour
-\usepackage{xcolor}% http://ctan.org/pkg/xcolor
-%\usepackage{fontspec}
 
-%% Fonte Monteserrat
-%\setmainfont{Montserrat}
-
-%\setmainfont{Trueno}
-%\setmainfont{Momcake}
-%\usepackage{lmodern}
-
-% Multicolunas
-\usepackage{multicol}
-
-\mdfsetup{
-  linewidth=0.025cm,
-  splitbottomskip=0cm,
-  splittopskip=0cm,
-  innerrightmargin=0.5cm,
-  innerleftmargin=0.5cm,
-  innertopmargin=0.5cm,%
-  innerbottommargin=0.5cm,%
-  innerlinewidth=2pt,
-  outerlinewidth=2pt,
-}
 
 
 % Remove a contagem de numeros na seções
 \setcounter{secnumdepth}{0}
 \begin{document}
-
-\contourlength{0.5pt}
-\contournumber{10}%
-\begin{multicols}{2}
-%----------------------------------------------------------------------------------------
-%	Titulo
-%----------------------------------------------------------------------------------------
-
+  %----------------------------------------------------------------------------------------
+  %	Titulo
+  %----------------------------------------------------------------------------------------
 \input{./sections/00_titulo.tex}
+\input{./sections/01_contato.tex}
 
-%----------------------------------------------------------------------------------------
-%	Conteudo
-%----------------------------------------------------------------------------------------
-
-    \input{./sections/01_contato.tex}
-    \input{./sections/02_resumo.tex}
-    \input{./sections/03_habilidades.tex}
-    \input{./sections/04_conhecimentos.tex}
-    \input{./sections/05_formacao.tex}
-    \input{./sections/06_portifolio.tex}
-\end{multicols}
-\newpage
-\input{./sections/07_experiencia_profissional.tex}
+  %----------------------------------------------------------------------------------------
+  %	Conteudo
+  %----------------------------------------------------------------------------------------
+  \input{./sections/02_objetivo.tex}
+  \input{./sections/05_formacao.tex}
+  % \input{./sections/02_resumo.tex}
+  \input{./sections/03_habilidades.tex}
+  \input{./sections/04_conhecimentos.tex}
+  \input{./sections/06_portifolio.tex}
+  \input{./sections/07_experiencia_profissional.tex}
+  \input{./sections/08_experiencia_voluntaria.tex}
 
 \end{document}

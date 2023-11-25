@@ -1,0 +1,84 @@
+GABRIEL VICTOR
+gabriel.victorc13@gmail.com | linkedin.com/in/gabriel-victorc/ | github.com/G4BR-13-L | codewars.com/G4BR-13-L
+
+
+OBJETIVO
+Desenvolvedor Full-Stack Jr.
+
+
+
+FORMAÇÃO
+BACHAREL EM ENGENHARIA DE SOFTWARE PUC MINAS | 2021 - 2024
+TÉCNICO EM TELECOMINICAÇÕES E REDES DE COMPUTADORES
+E. E. TÉCNICO INDUSTRIAL PROFESSOR FONTES | 2019 - 2020
+
+
+EXPERIÊNCIA PROFISSIONAL
+
+Â Sólides Tangerino - Estagiário de Desenvolvimento de Software | Dez 2022 - Presente
+- Desenvolvimento de aplicações Spring ( Spring Boot,
+Spring MVC, Spring Framework, Spring Security, Java )
+• Manutenção de Sistemas legados JavaEE ( GlassFish,
+Maven )
+• Testes Unitários ( JUnit )
+/ / HABILIDADES
+• Testes de Integração
+• Construção de APIs Rest
+Spring, Java, JUnit, GlassFish, Docker, PostgreSQL, Rab-• Documentação de APIs ( Swagger )
+bitMQ, NodeJs, TypeScript, React, NextJs, Firebase, Linux,• Bancos de dados ( PostgreSQL, Redis, Relacionais, Não
+Shell Script, WordPress, Scrum, GitHub, GitHub Actions,
+Angular, PostgreSQL, Cloud
+relacionais )
+• Infraestrutura ( Docker, AWS )
+• Desenvolvimento de front-end ( Angular, TypeScript,
+/ / CONHECIMENTOS
+• Controle de versao;
+Wicket )
+• Metodologias Ágeis ( Scrum, Azure DevOps )
+• Trabalho Remoto
+• Desenvolvimento Dirigido por Testes ( TDD );
+• Princípios de qualidade de software;
+• Padrões REST;
+/ / EXPERIÊNCIA VOLUNTÁRIA
+• Code Review;Ç IPRO Jr. Soluções em Engenharia e Arquite-
+• Documentação;tura
+• Metodologias Ágeis;
+• Diagramação de UML;
+Vonluntário no Movimento Empresa Júnior
+Coordenador e Gerente de projetos em Sistemas de In-
+formação | Mar 2022 - Dez 2022
+/ / PORTIFOLIO
+Sistema de Pedidos de Hamburgueria
+Um sistema de autoatendimento para escolha de itens, check-
+out com carrinho e envio do pedido para a hamburgeria atraves
+de whatsapp.
+NextJs, TypeScript, Sass, Firebase
+52artgo.web.app/
+Listfy - Trabalho Interdisciplinar
+Projeto academico de checklist para gestão de tarefas de estu-
+dantes na pandemia. Projetado através de design thinking
+HTML, CSS, JavaScript
+icei-puc-minas-dificuldades-do-ead/
+• Levantamento, análise e especificação de requisitos;
+• metrificação, acompanhamento e execução de projetos como
+Scrum Master;
+• manutenção de KanBans com Pipefy, Notion e planilhas
+• negociação e colaboração com o cliente.
+• Liderança do time
+Dev React, React Native e Wordpress | Set 2021 - Mar 2022
+• Pesquisas de viabilidade;
+• Elaboração de propostas de projeto;
+• Desenvolvimento de sites em WordPress,
+• desenvolvimento de ferramentas de uso interno ( JavaScript,
+React, React Native e Firebase );
+• Elaboração de projetos de interface, UI/UX ( Figma )
+Portifolio completoTrainee| Ago 2021 - Set 2021
+Meu portifolio na web com mais detalhes dos meus melhores
+projetos, principalmente FrontEnd. Além de portifólio é um blog
+que processa markdown em páginas web para leitura. Design
+totalmente responsivo e com dark mode!• Resolução de cases;
+• Desenvolvimento de pitch;
+• Treinamento em pipefy ;
+• Palestras com representantes do Núcleo Central;
+NextJs, Firebase, TypeScript, Sass, Markdown
+https://gabrielvictor.web.app
