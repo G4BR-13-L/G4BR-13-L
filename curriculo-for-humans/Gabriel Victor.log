@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  24 NOV 2023 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  18 DEC 2023 09:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -799,6 +799,14 @@ LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/sc' will be
 (Font)              scaled to size 9.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/it' will be
 (Font)              scaled to size 9.0pt on input line 9.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `T1/cmtt/regular/n' undefined
+(Font)              using `T1/cmtt/m/n' instead on input line 11.
+
 ) (./sections/08_experiencia_voluntaria.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 4.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
@@ -812,25 +820,31 @@ LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/sc' will be
 (Font)              scaled to size 8.0pt on input line 18.
 LaTeX Font Info:    Font shape `T1/Montserrat-TLF/regular/it' will be
 (Font)              scaled to size 8.0pt on input line 18.
-) [1
+)
+Overfull \vbox (2.54176pt too high) has occurred while \output is active []
+
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Gabriel Victor.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `"Gabriel Victor".out' has not changed.
 (rerunfilecheck)             Checksum: 7EBE8F816A55338EB3689CD45D0A51A8;2266.
  ) 
 Here is how much of TeX's memory you used:
- 17150 strings out of 478287
- 307604 string characters out of 5849290
- 618118 words of memory out of 5000000
- 35051 multiletter control sequences out of 15000+600000
- 664428 words of font info for 62 fonts, out of 8000000 for 9000
+ 17172 strings out of 478287
+ 308260 string characters out of 5849290
+ 619118 words of memory out of 5000000
+ 35069 multiletter control sequences out of 15000+600000
+ 664741 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,7n,90p,1264b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb>
-Output written on "Gabriel Victor.pdf" (1 page, 191271 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_bapnwu.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_poz7al.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/montserrat/zmo_ro7vi7.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/montserrat/Montserrat-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on "Gabriel Victor.pdf" (1 page, 205859 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 127 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
  15 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
