@@ -20,21 +20,32 @@
 
 
 ### Eu...
-* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 7º Período ]
-* 🔭 Estou atualmente explorando **Java 🤝 Spring**🔥
-* 💻 Estou desenvolvedo projetos em Angular [ com firebase, com spring, com angular, com Postgres,  com versão mobile em Flutter, com LaTeX e outros. Stack ta caprichada 👌 ]   
+* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 8º Período ] (Quase formando🎉🎓)
+* 🔭 Estou atualmente explorando **Rust🦀 Java☕, Spring🍃**🔥
+* 💻 Estou muito focado no desenvolvimento do meu TCC utilizando **Rust🦀**: 
+  * **Visualização de Código Baseada em Domain-Driven Design: Uma Abordagem para Compreensão e Gestão de Conhecimento em Equipes Ágeis**  
 
 
 ### Ferramentas
 
 #### O que estou estudando
 
+<code><img src="icons/jupyter.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/latex.png" width="48px" style="border-radius:5px !important;"/></code>
+
+
+
+#### O que sei fazer em Back-End 
+
 <code><img src="icons/java.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/spring.png" width="48px" style="border-radius:5px !important;"/></code>
-<code><img src="icons/flutter.png" width="48px" style="border-radius:5px !important;"/></code>
-<code><img src="icons/angular.png" width="48px" style="border-radius:5px !important;"/></code>
-
+<code><img src="icons/postgres.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/rabbitmq.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/docker.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/ubuntu.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/archlinux.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/azure.png" width="48px" style="border-radius:5px !important;"/></code>
 
 #### O que sei fazer em Front-End 
 <code><img src="icons/html.png" width="48px" style="border-radius:5px !important;"/></code>
