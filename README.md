@@ -55,6 +55,7 @@
 <code><img src="icons/react.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/firebase.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/next.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/angular.png" width="48px" style="border-radius:5px !important;"/></code>
 
 
 <!-- #### O que estou estudando
