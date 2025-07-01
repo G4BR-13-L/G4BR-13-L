@@ -18,12 +18,35 @@
 
 <br/>
 
+### 👨‍💻 About Me / Sobre Mim
 
-### Eu...
-* 🎓 Estudo Engenharia de Software na **PUC Minas** [ 8º Período ] (Quase formando🎉🎓)
-* 🔭 Estou atualmente explorando **Rust🦀 Java☕, Spring🍃**🔥
-* 💻 Estou muito focado no desenvolvimento do meu TCC utilizando **Rust🦀**: 
-  * **Visualização de Código Baseada em Domain-Driven Design: Uma Abordagem para Compreensão e Gestão de Conhecimento em Equipes Ágeis**  
+* 🎓 I hold a degree in **Software Engineering** from **PUC Minas** (Brazil)
+
+  > 🇧🇷 Graduado em Engenharia de Software pela **PUC Minas**
+
+  * 🦀🎓 My final thesis (TCC) was written in **Rust**:
+    **“Domain-Driven Design Based Code Visualization: An Approach for Knowledge Management and Understanding in Agile Teams”**
+
+    > 🇧🇷 *Visualização de Código Baseada em Domain-Driven Design: Uma Abordagem para Compreensão e Gestão de Conhecimento em Equipes Ágeis*
+
+  * 📄 I published a research paper during my undergraduate studies:
+    **“Exploring YouTube as a Learning Source for Developers: A Large-Scale Analysis of Tech Videos”**
+    Published in the *V Simpósio Brasileiro de Educação em Computação*, Juiz de Fora/MG, 2025, pp. 72–84.
+    DOI: [https://doi.org/10.5753/educomp.2025.4930](https://doi.org/10.5753/educomp.2025.4930)
+
+    > 🇧🇷 *Artigo publicado durante a graduação, analisando vídeos de tecnologia no YouTube como fonte de aprendizado para devs.*
+
+* 🔭 I'm currently exploring and improving my skills in:
+
+  * **Rust 🦀**, **Java ☕**, and **Spring Boot 🍃**
+  * > 🇧🇷 Estudando e praticando Rust, Java e Spring Boot
+
+* 💡 I'm deeply focused on mastering **Rust 🦀**, especially in:
+
+  * 📐 Design Patterns / Padrões de Projeto
+  * 🧱 Architecture / Arquitetura
+  * 🔧 Code Maintenance / Manutenção de Código
+  * ✅ Testing / Testes
 
 
 ### Ferramentas
