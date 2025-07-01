@@ -49,17 +49,15 @@
   * ✅ Testing / Testes
 
 
-### Ferramentas
+### Technologies
 
-#### O que estou estudando
+#### 🚀 Currently mastering
 
 <code><img src="icons/jupyter.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/latex.png" width="48px" style="border-radius:5px !important;"/></code>
 
-
-
-#### O que sei fazer em Back-End 
+#### ⚒️ Core skills
 
 <code><img src="icons/java.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/spring.png" width="48px" style="border-radius:5px !important;"/></code>
@@ -70,7 +68,7 @@
 <code><img src="icons/archlinux.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/azure.png" width="48px" style="border-radius:5px !important;"/></code>
 
-#### O que sei fazer em Front-End 
+#### 🎨 Past Front-End Experience
 <code><img src="icons/html.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/css.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/js.png" width="48px" style="border-radius:5px !important;"/></code>
