@@ -53,9 +53,10 @@
 
 #### 🚀 Currently mastering
 
-<code><img src="icons/jupyter.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
-<code><img src="icons/latex.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/postgres.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/rabbitmq.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/docker.png" width="48px" style="border-radius:5px !important;"/></code>
 
 #### ⚒️ Core skills
 
@@ -67,6 +68,10 @@
 <code><img src="icons/ubuntu.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/archlinux.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/azure.png" width="48px" style="border-radius:5px !important;"/></code>
+
+#### 🔭 Academical research
+<code><img src="icons/latex.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/jupyter.png" width="48px" style="border-radius:5px !important;"/></code>
 
 #### 🎨 Past Front-End Experience
 <code><img src="icons/html.png" width="48px" style="border-radius:5px !important;"/></code>
