@@ -54,12 +54,14 @@
 #### 🚀 Currently mastering
 
 <code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/java.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/postgres.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/rabbitmq.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/docker.png" width="48px" style="border-radius:5px !important;"/></code>
 
 #### ⚒️ Core skills
 
+<code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/java.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/spring.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/postgres.png" width="48px" style="border-radius:5px !important;"/></code>
@@ -70,6 +72,9 @@
 <code><img src="icons/azure.png" width="48px" style="border-radius:5px !important;"/></code>
 
 #### 🔭 Academical research
+
+<code><img src="icons/rust.png" width="48px" style="border-radius:5px !important;"/></code>
+<code><img src="icons/java.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/latex.png" width="48px" style="border-radius:5px !important;"/></code>
 <code><img src="icons/jupyter.png" width="48px" style="border-radius:5px !important;"/></code>
 
